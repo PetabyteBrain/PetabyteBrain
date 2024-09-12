@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Time Clock](https://github.com/PetabyteBrain/TimeClock)
 
-- 🌱 I’m currently learning **java & Pcb development**
+- 🌱 I’m currently learning **java & pcb development**
 
 - 👨‍💻 Visit my Portfolio and see some of my Projects [coming soon....](coming soon....)
 
