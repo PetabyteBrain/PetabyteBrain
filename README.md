@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petabytebrain&label=Profile%20views&color=0e75b6&style=flat" alt="petabytebrain" /> </p>
 
-- 🔭 I’m currently working on [TimeClock](https://github.com/PetabyteBrain/TimeClock)
+- 🔭 I’m currently working on [TimeClock](https://github.com/PetabyteBrain/TimeClock) & [Blackberry Pi](https://github.com/PetabyteBrain/BlackberryPi)
 
-- 🌱 I’m currently learning **NoSQL, Docker & Electronics**
+- 🌱 I’m currently learning **Scrum, Business Processes & CAD Modeling**
 
 - 👨‍💻 Visit my Portfolio and see some of my Projects [Coming Soon](Coming Soon)
 
