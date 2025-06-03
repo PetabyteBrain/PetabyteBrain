@@ -28,4 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petabytebrain&theme=merko" alt="petabytebrain" /></p>
 
-<img align="left" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2861&api_domain=hackatime.hackclub.com&theme=merko&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="petabytebrain"/>
