@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petabytebrain&label=Profile%20views&color=0e75b6&style=flat" alt="petabytebrain" /> </p>
 
-- 🔭 I’m currently working on [TimeClock](https://github.com/PetabyteBrain/TimeClock) & [Blackberry Pi](https://github.com/PetabyteBrain/BlackberryPi)
+- 🔭 I’m currently working on [Wii n U Chat](https://github.com/PetabyteBrain/Wii-n-U-Chat) & [Blackberry Pi](https://github.com/PetabyteBrain/BlackberryPi)
 
-- 🌱 I’m currently learning **Scrum, Business Processes & CAD Modeling**
+- 🌱 I’m currently learning **Nvim & CAD Modeling**
 
 - 👨‍💻 Visit my Portfolio and see some of my Projects [Coming Soon](Coming Soon)
 
