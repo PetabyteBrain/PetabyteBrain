@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nvim & CAD Modeling**
 
-- 👨‍💻 Visit my Portfolio and see some of my Projects <a href="https://spyros.catechis.ch" target="_blank">spyros.catechis.ch</a>
+- 👨‍💻 Visit my Portfolio and see some of my Projects <a href="https://spyros.catechis.ch" target="_blank" rel="noopener noreferrer">spyros.catechis.ch</a>
 
 - 💬 Ask me about **what I'm working on ;)**
 
