@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petabytebrain&label=Profile%20views&color=0e75b6&style=flat" alt="petabytebrain" /> </p>
 
-- 🔭 I’m currently working on [Wii n U Chat](https://github.com/PetabyteBrain/Wii-n-U-Chat) & [Blackberry Pi](https://github.com/PetabyteBrain/BlackberryPi)
+- 🔭 I’m currently working on [Time Management System](https://github.com/PetabyteBrain/Time-Management-System) & [Blackberry Pi](https://github.com/PetabyteBrain/BlackberryPi)
 
 - 🌱 I’m currently learning **Nvim & CAD Modeling**
 
