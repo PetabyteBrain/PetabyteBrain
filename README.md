@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petabytebrain&label=Profile%20views&color=0e75b6&style=flat" alt="petabytebrain" /> </p>
 
-- 🔭 I’m currently working on [Time Management System](https://github.com/PetabyteBrain/Time-Management-System) & [Blackberry Pi](https://github.com/PetabyteBrain/BlackberryPi)
+- 🔭 I’m currently working on [Skip-ify](https://github.com/ByteClean/Skip-ify) & [Blackberry Pi](https://github.com/PetabyteBrain/BlackberryPi)
 
-- 🌱 I’m currently learning **Nvim & CAD Modeling**
+- 🌱 I’m currently learning **Nvim & Haskell**
 
 - 👨‍💻 Visit my Portfolio and see some of my Projects [spyros.catechis.ch](https://spyros.catechis.ch)
 
